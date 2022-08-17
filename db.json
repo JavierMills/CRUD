@@ -1,0 +1,71 @@
+{
+    "usuarios": [
+        {
+          "id": 1,
+          "usuario": "Z420057",
+          "nombre": "Vera Nabor Juan Carlos",
+          "perfiles": [
+            {
+              "id": 1,
+              "descripcion": "Control Central de Cuentas"
+            },
+            {
+              "id": 2,
+              "descripcion": "Geoban"
+            },
+            {
+              "id": 3,
+              "descripcion": "UPLD"
+            },
+            {
+              "id": 4,
+              "descripcion": "Consultas"
+            },
+            {
+              "id": 5,
+              "descripcion": "Segmento"
+            },
+            {
+              "id": 6,
+              "descripcion": "Auditoría"
+            },
+            {
+              "id": 7,
+              "descripcion": "Ejecutivos"
+            },
+            {
+              "id": 8,
+              "descripcion": "Responsable Segmento"
+            },
+            {
+              "id": 9,
+              "descripcion": "Responsable Banca"
+            },
+            {
+              "id": 10,
+              "descripcion": "Subdirector"
+            },{
+              "id": 11,
+              "descripcion": "BEI"
+            }
+            ,{
+              "id": 12,
+              "descripcion": "GCB"
+            }
+            ,{
+              "id": 13,
+              "descripcion": "Particulares"
+            }
+            ,{
+              "id": 14,
+              "descripcion": "PyME"
+            }
+            ,{
+              "id": 100,
+              "descripcion": "Administrador",
+              "administracion" : true
+            }
+          ]
+        }
+      ]
+}
